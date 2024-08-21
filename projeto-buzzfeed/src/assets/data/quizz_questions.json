@@ -46,6 +46,15 @@
           {"id": 1, "name":"O Terrivel", "alias":"A"},
           {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
         ]
+      },
+      {
+        "id":6,
+        "question": "O que você mais gostaria de fazer como super?",
+        "options":[
+          {"id": 1, "name":"Machucar pessoas", "alias":"A"},
+          {"id": 2, "name":"Ajudar os necessitados", "alias":"B"},
+          {"id": 3, "name":"Pacificar o mundo", "alias":"B"}
+        ]
       }
     ],
     "results":{
